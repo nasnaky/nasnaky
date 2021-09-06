@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?text=nasnaky&fontSize=90)
-!GitHub Readme Stats: github-readme-stats.vercel.app/api?username={nasnaky}&show_icons=true
+! github-readme-stats.vercel.app/api?username={nasnaky}&show_icons=true
