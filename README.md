@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?text=nasnaky&fontSize=90)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasnaky)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasnaky)](https://github.com/anuraghazra/github-readme-stats)
+
 
