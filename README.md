@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?text=nasnaky&fontSize=90)
-! github-readme-stats.vercel.app/api?username={nasnaky}&show_icons=true
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasnaky)](https://github.com/anuraghazra/github-readme-stats)
+
