@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?text=nasnaky &height = 50px)
+![header](https://capsule-render.vercel.app/api?text=nasnaky)
 
