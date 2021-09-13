@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasnaky)](https://github.com/anuraghazra/github-readme-stats)
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hompens4)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasnaky)](https://github.com/anuraghazra/github-readme-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hompens4)](https://solved.ac/nasnaky)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=nasnaky)](https://solved.ac/nasnaky)
 
 
